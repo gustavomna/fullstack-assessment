@@ -45,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\fullstack-assessment\\fullstack-assessment\\src\\SharedKernel\\SharedKernel.csproj",
+      "projectUniqueName": "C:\\Projects\\2025\\fullstack-assessment\\src\\SharedKernel\\SharedKernel.csproj",
       "projectName": "SharedKernel",
-      "projectPath": "C:\\Projects\\fullstack-assessment\\fullstack-assessment\\src\\SharedKernel\\SharedKernel.csproj",
+      "projectPath": "C:\\Projects\\2025\\fullstack-assessment\\src\\SharedKernel\\SharedKernel.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\fullstack-assessment\\fullstack-assessment\\src\\SharedKernel\\obj\\",
+      "outputPath": "C:\\Projects\\2025\\fullstack-assessment\\src\\SharedKernel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
