@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uuU8natuuck=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\fullstack-assessment\\fullstack-assessment\\src\\SharedKernel\\SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

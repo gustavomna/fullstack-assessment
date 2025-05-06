@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ld522VNSfkA=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\fullstack-assessment\\fullstack-assessment\\src\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

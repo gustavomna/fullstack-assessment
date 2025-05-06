@@ -1,0 +1,15 @@
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Domain\obj\Debug\net9.0\Domain.csproj.AssemblyReference.cache
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Domain\bin\Debug\net9.0\Domain.dll
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Domain\bin\Debug\net9.0\SharedKernel.dll
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Domain\bin\Debug\net9.0\SharedKernel.pdb
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Domain\obj\Debug\net9.0\Domain.csproj.Up2Date
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Domain\obj\Debug\net9.0\Domain.dll
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Domain\obj\Debug\net9.0\ref\Domain.dll

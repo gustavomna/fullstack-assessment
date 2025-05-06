@@ -1,0 +1,17 @@
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\bin\Debug\net9.0\Application.deps.json
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\bin\Debug\net9.0\Application.dll
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\bin\Debug\net9.0\Application.pdb
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\bin\Debug\net9.0\Domain.dll
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\bin\Debug\net9.0\SharedKernel.dll
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\bin\Debug\net9.0\Domain.pdb
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\bin\Debug\net9.0\SharedKernel.pdb
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\obj\Debug\net9.0\Application.dll
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\obj\Debug\net9.0\Application.pdb
+C:\Projects\fullstack-assessment\fullstack-assessment\src\Application\obj\Debug\net9.0\ref\Application.dll
