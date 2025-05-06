@@ -1,4 +1,6 @@
 ﻿using Application.Abstractions.Data;
+using Domain.Departments;
+using Domain.Employees;
 using Domain.Users;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +12,10 @@ public sealed class ApplicationDbContext(DbContextOptions<ApplicationDbContext> 
     : DbContext(options), IApplicationDbContext
 {
     public DbSet<User> Users { get; set; }
+
+    public DbSet<Employee> Employees { get; set; }
+
+    public DbSet<Department> Departments { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
