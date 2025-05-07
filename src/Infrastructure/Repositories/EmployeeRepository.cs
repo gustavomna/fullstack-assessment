@@ -13,12 +13,14 @@ internal sealed class EmployeeRepository : Repository<Employee>, IEmployeeReposi
     public async Task<Employee?> GetByIdAsync(Guid id)
     {
         return await DbContext.Set<Employee>()
+            .Include(e => e.Department)
             .FirstOrDefaultAsync(e => e.Id == id);
     }
 
     public async Task<IEnumerable<Employee>> GetAllAsync()
     {
         return await DbContext.Set<Employee>()
+            .Include(e => e.Department)
             .ToListAsync();
     }
 

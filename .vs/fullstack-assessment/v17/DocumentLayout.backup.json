@@ -3,16 +3,184 @@
   "WorkspaceRootPath": "C:\\Projects\\2025\\fullstack-assessment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Migrations\\20250506203252_Employees-Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\Migrations\\20250506203252_Employees-Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\web.api\\controllers\\employees\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|solutionrelative:src\\web.api\\controllers\\employees\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\infrastructure\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\web.api\\controllers\\departments\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|solutionrelative:src\\web.api\\controllers\\departments\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\employees\\create\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\employees\\create\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\employees\\create\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\employees\\create\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\web.api\\controllers\\employees\\createemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|solutionrelative:src\\web.api\\controllers\\employees\\createemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|solutionrelative:src\\web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\web.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|solutionrelative:src\\web.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\web.api\\controllers\\employees\\updateemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|solutionrelative:src\\web.api\\controllers\\employees\\updateemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\employees\\update\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\employees\\update\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\departments\\update\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\departments\\update\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\employees\\update\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\employees\\update\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\web.api\\controllers\\users\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|solutionrelative:src\\web.api\\controllers\\users\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\web.api\\controllers\\departments\\createdepartmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|solutionrelative:src\\web.api\\controllers\\departments\\createdepartmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\web.api\\controllers\\departments\\updatedepartmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|solutionrelative:src\\web.api\\controllers\\departments\\updatedepartmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\users\\register\\userregistereddomaineventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\users\\register\\userregistereddomaineventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\users\\register\\registerusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\users\\register\\registerusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\departments\\create\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\departments\\create\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\departments\\create\\createdepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\departments\\create\\createdepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\departments\\update\\updatedepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\departments\\update\\updatedepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\departments\\delete\\deletedepartmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\departments\\delete\\deletedepartmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\departments\\delete\\deletedepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\departments\\delete\\deletedepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\departments\\getall\\getalldepartmentqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\departments\\getall\\getalldepartmentqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\departments\\getall\\getalldepartmentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\departments\\getall\\getalldepartmentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\departments\\getbyid\\getbyiddepartmentqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\departments\\getbyid\\getbyiddepartmentqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\domain\\departments\\departmentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\departments\\departmentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\domain\\employees\\employeebasicresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\employees\\employeebasicresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\departments\\getbyid\\getbyiddepartmentquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\departments\\getbyid\\getbyiddepartmentquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\domain\\departments\\departmenterrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\departments\\departmenterrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\domain\\departments\\departmentcreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\departments\\departmentcreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\employees\\getbyid\\getbyidemployeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\employees\\getbyid\\getbyidemployeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\employees\\getbyid\\getbyidemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\employees\\getbyid\\getbyidemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\employees\\getall\\getallemployeesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\employees\\getall\\getallemployeesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\employees\\getall\\getallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\employees\\getall\\getallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\domain\\employees\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\employees\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\employees\\delete\\deleteemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\employees\\delete\\deleteemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\domain\\employees\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\employees\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\application\\employees\\delete\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDAB160-5258-45DA-1CDF-4BFCF367E785}|src\\Application\\Application.csproj|solutionrelative:src\\application\\employees\\delete\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\domain\\employees\\employeecreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\employees\\employeecreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\domain\\employees\\employeeerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\employees\\employeeerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\domain\\users\\usererrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\users\\usererrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\infrastructure\\authentication\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\authentication\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\infrastructure\\departments\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,20 +211,8 @@
       "RelativeMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\infrastructure\\users\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\users\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\domain\\employees\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\employees\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\domain\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +235,6 @@
       "RelativeMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\users\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\domain\\users\\usererrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87EDA1D2-4B5B-E524-38CE-D0BFCA5F4D6B}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\users\\usererrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D745DFE-AF9A-E111-755D-FD3FFF280728}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -93,10 +245,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|solutionrelative:src\\web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|c:\\projects\\2025\\fullstack-assessment\\src\\web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{141E5A4F-A98E-1E94-E0C1-0FF4E4A962B9}|src\\Web.Api\\Web.Api.csproj|solutionrelative:src\\web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,206 +254,570 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250506203252_Employees-Department.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Migrations\\20250506203252_Employees-Department.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Migrations\\20250506203252_Employees-Department.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Migrations\\20250506203252_Employees-Department.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Migrations\\20250506203252_Employees-Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:32:52.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Repositories\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Repositories\\DepartmentRepository.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Repositories\\DepartmentRepository.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Repositories\\DepartmentRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:00:29.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Repositories\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Repositories\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Repositories\\EmployeeRepository.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Repositories\\EmployeeRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T19:57:44.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DepartmentConfiguration.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Departments\\DepartmentConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Departments\\DepartmentConfiguration.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Departments\\DepartmentConfiguration.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Departments\\DepartmentConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T19:52:47.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EmployeeConfiguration.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Employees\\EmployeeConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Employees\\EmployeeConfiguration.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Employees\\EmployeeConfiguration.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Employees\\EmployeeConfiguration.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBcAAAAAAAAAAAAAAA==",
+              "Title": "CreateEmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Controllers\\Employees\\CreateEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "src\\Web.Api\\Controllers\\Employees\\CreateEmployeeRequest.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Controllers\\Employees\\CreateEmployeeRequest.cs",
+              "RelativeToolTip": "src\\Web.Api\\Controllers\\Employees\\CreateEmployeeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T19:47:02.348Z",
+              "WhenOpened": "2025-05-06T21:30:57.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Controllers\\Employees\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "src\\Web.Api\\Controllers\\Employees\\EmployeesController.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Controllers\\Employees\\EmployeesController.cs",
+              "RelativeToolTip": "src\\Web.Api\\Controllers\\Employees\\EmployeesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:25:01.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IDepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Departments\\IDepartmentRepository.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Departments\\IDepartmentRepository.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Departments\\IDepartmentRepository.cs",
-              "RelativeToolTip": "src\\Domain\\Departments\\IDepartmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Title": "UpdateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\Update\\UpdateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Employees\\Update\\UpdateEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\Update\\UpdateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "src\\Application\\Employees\\Update\\UpdateEmployeeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T19:41:46.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Departments\\Department.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Departments\\Department.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Departments\\Department.cs",
-              "RelativeToolTip": "src\\Domain\\Departments\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T19:29:33.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Database\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Database\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Database\\ApplicationDbContext.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Database\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T19:08:50.401Z",
+              "WhenOpened": "2025-05-06T21:08:09.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\Employee.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Employees\\Employee.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\Employee.cs",
-              "RelativeToolTip": "src\\Domain\\Employees\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Web.Api\\Program.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Program.cs",
+              "RelativeToolTip": "src\\Web.Api\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T19:24:02.892Z",
+              "WhenOpened": "2025-05-06T19:08:18.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\IEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Employees\\IEmployeeRepository.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\IEmployeeRepository.cs",
-              "RelativeToolTip": "src\\Domain\\Employees\\IEmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CreateEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\Create\\CreateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Employees\\Create\\CreateEmployeeCommand.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\Create\\CreateEmployeeCommand.cs",
+              "RelativeToolTip": "src\\Application\\Employees\\Create\\CreateEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T19:40:25.432Z",
+              "WhenOpened": "2025-05-06T20:35:51.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\Create\\CreateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Employees\\Create\\CreateEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\Create\\CreateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "src\\Application\\Employees\\Create\\CreateEmployeeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:38:08.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Controllers\\Departments\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "src\\Web.Api\\Controllers\\Departments\\DepartmentsController.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Controllers\\Departments\\DepartmentsController.cs",
+              "RelativeToolTip": "src\\Web.Api\\Controllers\\Departments\\DepartmentsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:24:50.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Title": "UpdateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\Update\\UpdateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Departments\\Update\\UpdateEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\Update\\UpdateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "src\\Application\\Departments\\Update\\UpdateEmployeeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T19:09:08.652Z",
+              "WhenOpened": "2025-05-06T21:18:58.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateEmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Controllers\\Employees\\UpdateEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "src\\Web.Api\\Controllers\\Employees\\UpdateEmployeeRequest.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Controllers\\Employees\\UpdateEmployeeRequest.cs",
+              "RelativeToolTip": "src\\Web.Api\\Controllers\\Employees\\UpdateEmployeeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:31:08.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Web.Api\\DependencyInjection.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Web.Api\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:36:14.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "UpdateEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\Update\\UpdateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Employees\\Update\\UpdateEmployeeCommand.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\Update\\UpdateEmployeeCommand.cs",
+              "RelativeToolTip": "src\\Application\\Employees\\Update\\UpdateEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:08:04.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Controllers\\Users\\UsersController.cs",
+              "RelativeDocumentMoniker": "src\\Web.Api\\Controllers\\Users\\UsersController.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Controllers\\Users\\UsersController.cs",
+              "RelativeToolTip": "src\\Web.Api\\Controllers\\Users\\UsersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:24:19.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateDepartmentRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Controllers\\Departments\\CreateDepartmentRequest.cs",
+              "RelativeDocumentMoniker": "src\\Web.Api\\Controllers\\Departments\\CreateDepartmentRequest.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Controllers\\Departments\\CreateDepartmentRequest.cs",
+              "RelativeToolTip": "src\\Web.Api\\Controllers\\Departments\\CreateDepartmentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:28:44.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateDepartmentRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Controllers\\Departments\\UpdateDepartmentRequest.cs",
+              "RelativeDocumentMoniker": "src\\Web.Api\\Controllers\\Departments\\UpdateDepartmentRequest.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Controllers\\Departments\\UpdateDepartmentRequest.cs",
+              "RelativeToolTip": "src\\Web.Api\\Controllers\\Departments\\UpdateDepartmentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:29:04.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRegisteredDomainEventHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Users\\Register\\UserRegisteredDomainEventHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Users\\Register\\UserRegisteredDomainEventHandler.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Users\\Register\\UserRegisteredDomainEventHandler.cs",
+              "RelativeToolTip": "src\\Application\\Users\\Register\\UserRegisteredDomainEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:21:00.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterUserCommandValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Users\\Register\\RegisterUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Users\\Register\\RegisterUserCommandValidator.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Users\\Register\\RegisterUserCommandValidator.cs",
+              "RelativeToolTip": "src\\Application\\Users\\Register\\RegisterUserCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:20:58.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateDepartmentCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\Create\\CreateDepartmentCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Departments\\Create\\CreateDepartmentCommand.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\Create\\CreateDepartmentCommand.cs",
+              "RelativeToolTip": "src\\Application\\Departments\\Create\\CreateDepartmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:20:24.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\Create\\CreateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Departments\\Create\\CreateEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\Create\\CreateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "src\\Application\\Departments\\Create\\CreateEmployeeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:20:16.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateDepartmentCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\Update\\UpdateDepartmentCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Departments\\Update\\UpdateDepartmentCommand.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\Update\\UpdateDepartmentCommand.cs",
+              "RelativeToolTip": "src\\Application\\Departments\\Update\\UpdateDepartmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:19:05.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:40:20.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\DependencyInjection.cs",
               "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\DependencyInjection.cs",
               "RelativeToolTip": "src\\Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAmwDYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T19:09:16.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Users\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Users\\UserConfiguration.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Users\\UserConfiguration.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Users\\UserConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T19:09:04.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserRegisteredDomainEvent.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Users\\UserRegisteredDomainEvent.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Users\\UserRegisteredDomainEvent.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Users\\UserRegisteredDomainEvent.cs",
-              "RelativeToolTip": "src\\Domain\\Users\\UserRegisteredDomainEvent.cs",
+              "DocumentIndex": 22,
+              "Title": "DeleteDepartmentCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\Delete\\DeleteDepartmentCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Departments\\Delete\\DeleteDepartmentCommand.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\Delete\\DeleteDepartmentCommand.cs",
+              "RelativeToolTip": "src\\Application\\Departments\\Delete\\DeleteDepartmentCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T19:28:05.569Z",
+              "WhenOpened": "2025-05-06T21:18:16.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Users\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Users\\IUserRepository.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Users\\IUserRepository.cs",
-              "RelativeToolTip": "src\\Domain\\Users\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "DeleteDepartmentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\Delete\\DeleteDepartmentCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Departments\\Delete\\DeleteDepartmentCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\Delete\\DeleteDepartmentCommandHandler.cs",
+              "RelativeToolTip": "src\\Application\\Departments\\Delete\\DeleteDepartmentCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T19:18:05.473Z",
+              "WhenOpened": "2025-05-06T21:18:08.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
+              "Title": "GetAllDepartmentsQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\GetAll\\GetAllDepartmentsQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Departments\\GetAll\\GetAllDepartmentsQuery.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\GetAll\\GetAllDepartmentsQuery.cs",
+              "RelativeToolTip": "src\\Application\\Departments\\GetAll\\GetAllDepartmentsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:17:21.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetAllDepartmentQueryHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\GetAll\\GetAllDepartmentQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Departments\\GetAll\\GetAllDepartmentQueryHandler.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\GetAll\\GetAllDepartmentQueryHandler.cs",
+              "RelativeToolTip": "src\\Application\\Departments\\GetAll\\GetAllDepartmentQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:17:10.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetByIdDepartmentQueryHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\GetById\\GetByIdDepartmentQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Departments\\GetById\\GetByIdDepartmentQueryHandler.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\GetById\\GetByIdDepartmentQueryHandler.cs",
+              "RelativeToolTip": "src\\Application\\Departments\\GetById\\GetByIdDepartmentQueryHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:15:01.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetByIdDepartmentQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\GetById\\GetByIdDepartmentQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Departments\\GetById\\GetByIdDepartmentQuery.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Departments\\GetById\\GetByIdDepartmentQuery.cs",
+              "RelativeToolTip": "src\\Application\\Departments\\GetById\\GetByIdDepartmentQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:14:35.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DepartmentErrors.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Departments\\DepartmentErrors.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Departments\\DepartmentErrors.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Departments\\DepartmentErrors.cs",
+              "RelativeToolTip": "src\\Domain\\Departments\\DepartmentErrors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:13:49.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DepartmentCreatedDomainEvent.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Departments\\DepartmentCreatedDomainEvent.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Departments\\DepartmentCreatedDomainEvent.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Departments\\DepartmentCreatedDomainEvent.cs",
+              "RelativeToolTip": "src\\Domain\\Departments\\DepartmentCreatedDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:13:01.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeeBasicResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\EmployeeBasicResponse.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Employees\\EmployeeBasicResponse.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\EmployeeBasicResponse.cs",
+              "RelativeToolTip": "src\\Domain\\Employees\\EmployeeBasicResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:12:27.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DepartmentResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Departments\\DepartmentResponse.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Departments\\DepartmentResponse.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Departments\\DepartmentResponse.cs",
+              "RelativeToolTip": "src\\Domain\\Departments\\DepartmentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:11:56.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetByIdEmployeeQueryHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\GetById\\GetByIdEmployeeQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Employees\\GetById\\GetByIdEmployeeQueryHandler.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\GetById\\GetByIdEmployeeQueryHandler.cs",
+              "RelativeToolTip": "src\\Application\\Employees\\GetById\\GetByIdEmployeeQueryHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:07:38.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetByIdEmployeeQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\GetById\\GetByIdEmployeeQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Employees\\GetById\\GetByIdEmployeeQuery.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\GetById\\GetByIdEmployeeQuery.cs",
+              "RelativeToolTip": "src\\Application\\Employees\\GetById\\GetByIdEmployeeQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:07:12.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmployeeResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\EmployeeResponse.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Employees\\EmployeeResponse.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\EmployeeResponse.cs",
+              "RelativeToolTip": "src\\Domain\\Employees\\EmployeeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:06:04.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetAllEmployeesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\GetAll\\GetAllEmployeesQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Employees\\GetAll\\GetAllEmployeesQueryHandler.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\GetAll\\GetAllEmployeesQueryHandler.cs",
+              "RelativeToolTip": "src\\Application\\Employees\\GetAll\\GetAllEmployeesQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:53:16.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetAllEmployeesQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\GetAll\\GetAllEmployeesQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Employees\\GetAll\\GetAllEmployeesQuery.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\GetAll\\GetAllEmployeesQuery.cs",
+              "RelativeToolTip": "src\\Application\\Employees\\GetAll\\GetAllEmployeesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:51:46.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DeleteEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\Delete\\DeleteEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Employees\\Delete\\DeleteEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\Delete\\DeleteEmployeeCommandHandler.cs",
+              "RelativeToolTip": "src\\Application\\Employees\\Delete\\DeleteEmployeeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:51:12.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DeleteEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\Delete\\DeleteEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Employees\\Delete\\DeleteEmployeeCommand.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Application\\Employees\\Delete\\DeleteEmployeeCommand.cs",
+              "RelativeToolTip": "src\\Application\\Employees\\Delete\\DeleteEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:50:36.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EmployeeCreatedDomainEvent.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\EmployeeCreatedDomainEvent.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Employees\\EmployeeCreatedDomainEvent.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\EmployeeCreatedDomainEvent.cs",
+              "RelativeToolTip": "src\\Domain\\Employees\\EmployeeCreatedDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:45:47.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmployeeErrors.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\EmployeeErrors.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Employees\\EmployeeErrors.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\EmployeeErrors.cs",
+              "RelativeToolTip": "src\\Domain\\Employees\\EmployeeErrors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:40:46.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Employees\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\IEmployeeRepository.cs",
+              "RelativeToolTip": "src\\Domain\\Employees\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:40:25.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Authentication\\UserContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Authentication\\UserContext.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Authentication\\UserContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Authentication\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:33:44.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:57:44.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Users\\User.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Users\\User.cs",
@@ -318,7 +830,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 41,
+              "Title": "UserErrors.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Users\\UserErrors.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Users\\UserErrors.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Users\\UserErrors.cs",
+              "RelativeToolTip": "src\\Domain\\Users\\UserErrors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:28:01.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Departments\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Departments\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Departments\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Departments\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:52:47.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Employees\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Employees\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Employees\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Employees\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:47:02.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Departments\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Departments\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Departments\\IDepartmentRepository.cs",
+              "RelativeToolTip": "src\\Domain\\Departments\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:41:46.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Departments\\Department.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Departments\\Department.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Departments\\Department.cs",
+              "RelativeToolTip": "src\\Domain\\Departments\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:29:33.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Database\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Database\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:08:50.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\Employee.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Employees\\Employee.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Employees\\Employee.cs",
+              "RelativeToolTip": "src\\Domain\\Employees\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:24:02.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:09:08.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Users\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Users\\UserConfiguration.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Users\\UserConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Users\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:09:04.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UserRegisteredDomainEvent.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Users\\UserRegisteredDomainEvent.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Users\\UserRegisteredDomainEvent.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Users\\UserRegisteredDomainEvent.cs",
+              "RelativeToolTip": "src\\Domain\\Users\\UserRegisteredDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:28:05.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Users\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Users\\IUserRepository.cs",
+              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Users\\IUserRepository.cs",
+              "RelativeToolTip": "src\\Domain\\Users\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:18:05.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
               "Title": "UserPermissionConfiguration.cs",
               "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Users\\UserPermissionConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Users\\UserPermissionConfiguration.cs",
@@ -331,7 +986,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 56,
               "Title": "UserPermission.cs",
               "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Users\\UserPermission.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Users\\UserPermission.cs",
@@ -344,7 +999,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 57,
               "Title": "UserResponse.cs",
               "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Users\\UserResponse.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Users\\UserResponse.cs",
@@ -357,20 +1012,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserErrors.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Users\\UserErrors.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Users\\UserErrors.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Domain\\Users\\UserErrors.cs",
-              "RelativeToolTip": "src\\Domain\\Users\\UserErrors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T19:28:01.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 59,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "src\\Web.Api\\appsettings.Development.json",
@@ -382,7 +1024,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 60,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\appsettings.json",
               "RelativeDocumentMoniker": "src\\Web.Api\\appsettings.json",
@@ -394,7 +1036,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 58,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Infrastructure\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Repositories\\Repository.cs",
@@ -404,18 +1046,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T19:09:11.479Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Web.Api\\Program.cs",
-              "ToolTip": "C:\\Projects\\2025\\fullstack-assessment\\src\\Web.Api\\Program.cs",
-              "RelativeToolTip": "src\\Web.Api\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T19:08:18.667Z"
             }
           ]
         }
