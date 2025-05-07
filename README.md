@@ -11,8 +11,6 @@ A full-stack web application for employee management using a vertical clean arch
 
 - [Architecture](#architecture)
 
-- [Database Design](#database-design)
-
 - [API Endpoints](#api-endpoints)
 
 - [Frontend](#frontend)
@@ -81,41 +79,11 @@ Each vertical slice (feature) follows SOLID principles and implements appropriat
 
 ## Database Design
 
-  
 
 ### Entity Relationship Diagram
 
-  
+  ![Database Diagram](https://github.com/user-attachments/assets/6a4f3601-8245-4c56-a857-47d1029b2bb9)
 
-```
-
-┌────────────────┐ ┌────────────────┐
-
-│ Department │ │ Employee │
-
-├────────────────┤ ├────────────────┤
-
-│ Id (PK) │◄─────┤ Id (PK) │
-
-│ Name │ │ FirstName │
-
-│ Description │ │ LastName │
-
-│ │ │ HireDate │
-
-│ │ │ DepartmentId(FK)│
-
-│ │ │ Phone │
-
-│ │ │ Address │
-
-│ │ │ AvatarUrl │
-
-└────────────────┘ └────────────────┘
-
-```
-
-  
 
 ### Tables and Fields
 
