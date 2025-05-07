@@ -1,0 +1,161 @@
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+      <h1>Employees</h1>
+      <button class="btn btn-primary" (click)="openNewEmployeeModal()">
+        <i class="bi bi-plus-circle me-2"></i> New Employee
+      </button>
+    </div>
+  
+    <div *ngIf="loading" class="text-center my-5">
+      <div class="spinner-border text-primary" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+    </div>
+  
+    <div *ngIf="!loading && employees.length === 0" class="text-center my-5">
+      <p class="lead">No employees found. Add your first employee!</p>
+    </div>
+  
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4" *ngIf="!loading && employees.length > 0">
+      <div class="col" *ngFor="let employee of employees">
+        <div class="card h-100 shadow-sm">
+          <div class="position-relative">
+            <button class="btn btn-danger btn-sm position-absolute top-0 end-0 m-2 rounded-circle"
+                    (click)="deleteEmployee(employee.id)">
+              <i class="bi bi-x"></i>
+            </button>
+            <img src="https://ui-avatars.com/api/?name={{getFullName(employee)}}&background=random" 
+                 class="card-img-top employee-avatar" alt="Employee avatar">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">{{ employee.firstName }} {{ employee.lastName }}</h5>
+            <p class="card-text mb-1">
+              <strong>Department:</strong> {{ getDepartmentName(employee.departmentName) }}
+            </p>
+            <p class="card-text">
+              <strong>Hire Date:</strong><br>
+              {{ dateUtils.formatHireDate(employee.hireDate) }}
+            </p>
+          </div>
+          <div class="card-footer bg-transparent d-grid">
+            <button class="btn btn-outline-primary" (click)="viewEmployeeDetails(employee.id)">
+              <i class="bi bi-eye me-2"></i>View Details
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="modal-backdrop fade show" *ngIf="showModal"></div>
+  
+  <div class="modal fade show d-block" tabindex="-1" *ngIf="showModal">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">New Employee</h4>
+          <button type="button" class="btn-close" aria-label="Close" (click)="closeModal()"></button>
+        </div>
+        <div class="modal-body">
+          <form [formGroup]="employeeForm" (ngSubmit)="onSubmit()">
+            <div class="row">
+              <div class="col-md-6 mb-3">
+                <label for="firstName" class="form-label">First Name</label>
+                <input 
+                  type="text" 
+                  id="firstName" 
+                  formControlName="firstName" 
+                  class="form-control" 
+                  [ngClass]="{'is-invalid': f['firstName'].touched && f['firstName'].errors}"
+                >
+                <div *ngIf="f['firstName'].touched && f['firstName'].errors" class="invalid-feedback">
+                  <div *ngIf="f['firstName'].errors['required']">First name is required</div>
+                  <div *ngIf="f['firstName'].errors['minlength']">First name must be at least 2 characters</div>
+                </div>
+              </div>
+              
+              <div class="col-md-6 mb-3">
+                <label for="lastName" class="form-label">Last Name</label>
+                <input 
+                  type="text" 
+                  id="lastName" 
+                  formControlName="lastName" 
+                  class="form-control" 
+                  [ngClass]="{'is-invalid': f['lastName'].touched && f['lastName'].errors}"
+                >
+                <div *ngIf="f['lastName'].touched && f['lastName'].errors" class="invalid-feedback">
+                  <div *ngIf="f['lastName'].errors['required']">Last name is required</div>
+                  <div *ngIf="f['lastName'].errors['minlength']">Last name must be at least 2 characters</div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="mb-3">
+              <label for="department" class="form-label">Department</label>
+              <select 
+                id="department" 
+                formControlName="department" 
+                class="form-select" 
+                [ngClass]="{'is-invalid': f['department'].touched && f['department'].errors}"
+              >
+                <option value="" disabled>Select Department</option>
+                <option *ngIf="loadingDepartments" value="" disabled>Loading departments...</option>
+                <option *ngFor="let department of departments" [value]="department.id">
+                  {{ department.name }}
+                </option>
+              </select>
+              <div *ngIf="f['department'].touched && f['department'].errors" class="invalid-feedback">
+                <div *ngIf="f['department'].errors['required']">Department is required</div>
+              </div>
+            </div>
+            
+            <div class="mb-3">
+              <label for="phone" class="form-label">Phone</label>
+              <input 
+                type="tel" 
+                id="phone" 
+                formControlName="phone" 
+                class="form-control"
+                [ngClass]="{'is-invalid': f['phone'].touched && f['phone'].errors}"
+              >
+              <div *ngIf="f['phone'].touched && f['phone'].errors" class="invalid-feedback">
+                <div *ngIf="f['phone'].errors['required']">Phone is required</div>
+              </div>
+            </div>
+            
+            <div class="mb-3">
+              <label for="address" class="form-label">Address</label>
+              <textarea 
+                id="address" 
+                formControlName="address" 
+                class="form-control"
+                [ngClass]="{'is-invalid': f['address'].touched && f['address'].errors}"
+                rows="3"
+              ></textarea>
+              <div *ngIf="f['address'].touched && f['address'].errors" class="invalid-feedback">
+                <div *ngIf="f['address'].errors['required']">Address is required</div>
+              </div>
+            </div>
+            
+            <div class="mb-3">
+              <label for="hireDate" class="form-label">Hire Date</label>
+              <input 
+                type="date" 
+                id="hireDate" 
+                formControlName="hireDate" 
+                class="form-control" 
+                [ngClass]="{'is-invalid': f['hireDate'].touched && f['hireDate'].errors}"
+              >
+              <div *ngIf="f['hireDate'].touched && f['hireDate'].errors" class="invalid-feedback">
+                <div *ngIf="f['hireDate'].errors['required']">Hire date is required</div>
+              </div>
+            </div>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" (click)="closeModal()">Cancel</button>
+          <button type="button" class="btn btn-primary" (click)="onSubmit()" [disabled]="employeeForm.invalid">Save</button>
+        </div>
+      </div>
+    </div>
+  </div>
