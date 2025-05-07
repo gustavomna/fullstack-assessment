@@ -117,13 +117,6 @@ Each vertical slice (feature) follows SOLID principles and implements appropriat
 
 -  `AvatarUrl` (VARCHAR(255), nullable): URL to employee's avatar image
 
-  
-
-### Migrations
-
-Database migrations are managed through the ORM's migration system. Initial migration scripts are included in the `Infrastructure/Persistence/Migrations` folder.
-
-  
 
 ## API Endpoints
 
